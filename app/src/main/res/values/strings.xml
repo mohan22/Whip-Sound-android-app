@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">whip crack</string>
+
+    <string name="hello_world">Whip Lash!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
